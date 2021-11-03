@@ -99,7 +99,7 @@ unsigned int __stdcall HttpProxyServer::ChildThread(PVOID PM) {
         char *ProhibitAccessToWebsites = " ";
         if (ParseHttpHead(RecvBuffer, httpHeader)) {// ¿Í»§¶Ë
 
-            char * PhishingSite = "http://jwts.hit.edu.cn";
+//            char * PhishingSite = "http://jwts.hit.edu.cn";
             //ÊÇ·ñµöÓã
 //            GuidePhishingSite(PhishingSite,httpHeader->Host,httpHeader->RequestUrl);
             if(AccessWebsite(httpHeader->RequestUrl, ProhibitAccessToWebsites)) {
