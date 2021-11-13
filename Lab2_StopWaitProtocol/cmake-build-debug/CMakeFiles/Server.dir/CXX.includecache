@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab2_StopWaitProtocol/Server.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+WinSock2.h
+-
+fstream
+-
+fstream
+-
+string
+-
+

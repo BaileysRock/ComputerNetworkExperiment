@@ -1,0 +1,6 @@
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab3_GBNProtocol/cmake-build-debug/CMakeFiles/Server.dir
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab3_GBNProtocol/cmake-build-debug/CMakeFiles/Client.dir
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab3_GBNProtocol/cmake-build-debug/CMakeFiles/ServerSR.dir
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab3_GBNProtocol/cmake-build-debug/CMakeFiles/ClientSR.dir
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab3_GBNProtocol/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/CLionProjects/ComputerNetworkExperiment/Lab3_GBNProtocol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
